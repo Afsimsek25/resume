@@ -3,8 +3,8 @@
 **Ankara, Türkiye**  
 **Telefon:** +90-543-738-7048  
 **E-posta:** [asimsekfurkan@yandex.com](mailto:asimsekfurkan@yandex.com)  
-**LinkedIn:** [afsimsek](https://linkedin.com/in/moguzhandal/)  
-**GitHub:** [Afsimsek25](https://github.com/oguzhandal)
+**LinkedIn:** [afsimsek](https://www.linkedin.com/in/afsimsek/)  
+**GitHub:** [Afsimsek25](https://github.com/Afsimsek25)
 
 ---
 
