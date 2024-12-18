@@ -115,7 +115,7 @@ Otomotiv experience to enable individual and corporate members to buy, sell and 
   Uluslararası İlişkiler - Lisans
 
 **Relevant Coursework:**  
-- EuroTech Study Inc | Software Developer in Test
+- EuroTech Study Inc - Software Developer in Test
 
 ---
 
