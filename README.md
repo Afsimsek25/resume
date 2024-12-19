@@ -68,7 +68,7 @@ various delivery streams. Be highly committed to create world class automation f
 During my internship at Mersys, I worked on the Campus platform—an innovative learning management system designed to enhance educational experiences for institutions. As an SDET intern, I contributed to both manual and automated testing efforts to ensure the platform’s features were reliable, stable, and of high quality.
 - Performed Web UI test automation and API testing to validate the stability, performance, and functionality of the Campus application.
 - Developed and maintained automated test frameworks using Java, Selenium, TestNG, Cucumber, and RestAssured.
--  Collaborated with development and product teams to define test requirements and optimize testing strategies.
+- Collaborated with development and product teams to define test requirements and optimize testing strategies.
 - Enhanced test coverage and efficiency, contributing to a smoother and more accessible learning experience for users.
 
 ---
