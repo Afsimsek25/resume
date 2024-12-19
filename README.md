@@ -47,12 +47,11 @@ developed automation test frameworks using Java, Selenium, TestNG and Page Objec
   - I performed load tests and managed performance tests using JMeter.
   - Thanks to UI automation, we reduced the error rate by %90
 
-### Turacoon (10.2020 – 07.2021)
+### Flalingo (10.2020 – 07.2021)
 **Software Developer in Test** – İstanbul, Türkiye
 
-In turacoon, an online education platform, I worked as a Test Automation developer in the creation and sustainability of the
-Test Automation project, which consists of hundreds of cases and user stories, in order to minimize the problems that students
-and teachers may encounter during and after the lesson.
+In Flalingo and Turacoon, an online education platform, I worked as a Test Automation developer in the creation and sustainability of the Test Automation project, which consists of hundreds of cases and user stories, in order to minimize the problems that students and teachers may encounter during and after the lesson.
+
 - Experience in selenium Web Driver Automation using Java, Selenium and Cucumber.
 - Execute test scripts and analyze and record results (manual and automated testing).
 - Identify defects/ anomalies and investigate their cause. Document and track these defects.
@@ -60,16 +59,17 @@ and teachers may encounter during and after the lesson.
 - Contribute to improving the QA process and quality standards.
 - Determine testing tools and software that can be implemented to aid QA and maximize testing coverage.
 - Cooperate with QA Manager in elaboration, introduction and facilitation of new processes and practices in context of
-various delivery streams.
-Be highly committed to create world class automation for regression and feature testing.
+various delivery streams. Be highly committed to create world class automation for regression and feature testing.
 
 
 ### MERSYS LLC (09.2020 – 07.2021)
 **Software Developer in Test Intern** – Remote
 
-MERSYS is a software company that produces solutions to many problems.
-- About 1 year of software QA experience on enterprise web applications.
-- To understand product requirements and develop test plan, test cases, execute tests and reporting of defects.
+During my internship at Mersys, I worked on the Campus platform—an innovative learning management system designed to enhance educational experiences for institutions. As an SDET intern, I contributed to both manual and automated testing efforts to ensure the platform’s features were reliable, stable, and of high quality.
+- Performed Web UI test automation and API testing to validate the stability, performance, and functionality of the Campus application.
+- Developed and maintained automated test frameworks using Java, Selenium, TestNG, Cucumber, and RestAssured.
+-  Collaborated with development and product teams to define test requirements and optimize testing strategies.
+- Enhanced test coverage and efficiency, contributing to a smoother and more accessible learning experience for users.
 
 ---
 
