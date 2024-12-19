@@ -19,7 +19,7 @@ of software development lifecycles.
 
 ## Experience
 
-### Quality Museum (07.2021 – Devam Ediyor)
+### Quality Museum (07.2021 – Current)
 **Software Developer in Test** – İstanbul, Türkiye
 
 While working under the Quality Museum, I served as an outsourced Test Automation Developer for various firms. In
